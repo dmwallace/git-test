@@ -1,3 +1,3 @@
-# Get test
+# Git test
 
 Some description
